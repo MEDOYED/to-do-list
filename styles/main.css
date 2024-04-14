@@ -1,0 +1,18 @@
+html {
+  color: #ffffff;
+  font-family: Inter;
+}
+
+.container {
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 0 10px;
+  overflow: visible;
+}
+
+:root {
+  --primary-blue: #2900ff;
+  --dark: #000;
+}
+
+

@@ -2,7 +2,7 @@
 @import url("../styles/reset.css");
 
 /* подключение шрифтов */
-
+@import url("../styles/fonts.css");
 
 /* Общие стили (блоки) */
 @import url("../styles/main.css");
