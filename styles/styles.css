@@ -1,0 +1,11 @@
+/* подключение сбрасуещих стилей */
+@import url("../styles/reset.css");
+
+/* подключение шрифтов */
+
+
+/* Общие стили (блоки) */
+@import url("../styles/main.css");
+
+/* Все секции */
+@import url("../styles/header.css");
